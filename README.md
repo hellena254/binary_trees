@@ -1,5 +1,8 @@
-# Binary Trees Readme
-
+# Binary Trees Project
+The following project covers the consept of binary trees. It was done by:
+    Nana Olivia(https://github.com/nanaoliviane)
+    Hellen Atieno(https://github.com/hellena254)
+    
 ## What is a Binary Tree?
 
 A binary tree is a hierarchical data structure composed of nodes, where each node has at most two children, referred to as the left child and the right child. The topmost node is called the root, and nodes with no children are called leaves. Nodes that are not leaves have a parent.
