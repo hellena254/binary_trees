@@ -1,8 +1,8 @@
 # Binary Trees Project
 The following project covers the consept of binary trees. It was done by:
 
-   1. Nana Olivia[https://github.com/nanaoliviane]
-   2. Hellen Atieno[https://github.com/hellena254]
+   1. [Nana Olivia](https://github.com/nanaoliviane)
+   2. [Hellen Atieno](https://github.com/hellena254)
     
 ## What is a Binary Tree?
 
@@ -52,3 +52,5 @@ A balanced binary tree is a binary tree in which the depth of the two subtrees o
 
 These types of binary trees have specific characteristics that make them useful for various applications and operations.
 
+
+*Happy Learning.*
