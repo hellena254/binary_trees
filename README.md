@@ -1,7 +1,8 @@
 # Binary Trees Project
 The following project covers the consept of binary trees. It was done by:
-    Nana Olivia(https://github.com/nanaoliviane)
-    Hellen Atieno(https://github.com/hellena254)
+
+   1. Nana Olivia[https://github.com/nanaoliviane]
+   2. Hellen Atieno[https://github.com/hellena254]
     
 ## What is a Binary Tree?
 
